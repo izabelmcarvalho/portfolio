@@ -6,7 +6,7 @@
     margin: 0px;
     padding: 0px;
     font-family: 'Manrope', sans-serif;
-    font-size: 1em;
+    font-size: 0.95em;
 }
 
 body {
@@ -24,8 +24,8 @@ main {
 }
 
 main > div {
-    height: 550px;
-    width: 350px;
+    height: 500px;
+    width: 300px;
     text-align: center;
     background-color: #e5e5e5;
     color: black;
@@ -40,6 +40,7 @@ main > div > h1 {
 
 main > div > h2 {
     font-weight: 500;
+    font-size: 1.01em;
     padding-bottom: 30px;
 }
 
