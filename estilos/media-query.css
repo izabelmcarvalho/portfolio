@@ -4,6 +4,7 @@
 @media screen and (min-width: 768px) and (max-width: 992px) { 
     body {
         background-image: linear-gradient(to bottom, #003049, #548687);
+        font-size: 1.2em;
     }
 
     main > div {
@@ -24,6 +25,7 @@
 @media screen and (min-width: 992px) {
     body {
         background-image: linear-gradient(to bottom, #003049, #548687);
+        font-size: 1.2em;
     }
 
     main > div {
@@ -33,7 +35,7 @@
     }
 
     main > div > h1 {
-        padding: 50px 0px 7px 0px;
+        padding: 47px 0px 7px 0px;
         font-size: 2em;
     }
 
@@ -49,7 +51,7 @@
     }
 
     main > div > p {
-        font-size: 1.075em;
+        font-size: 1.046em;
         padding-left: 30px;
         padding-right: 30px;
     }
